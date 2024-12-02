@@ -1,0 +1,22 @@
+No of snakes are: 9
+Head of snake is at and tail is at (space-separated): 62 5
+Head of snake is at and tail is at (space-separated): 33 6
+"Head of snake is at and tail is at (space-separated):49 9
+Head of snake is at and tail is at (space-separated): 88 16
+Head of snake is at and tail is at (space-separated): 41 20
+Head of snake is at and tail is at (space-separated): 56 53
+Head of snake is at and tail is at (space-separated):98 64
+Head of snake is at and tail is at (space-separated):93 73
+Head of snake is at and tail is at (space-separated):95 75
+No of ladders are: 8
+Ladder starts at and ends at (space-separated): 2 37
+Ladder starts at and ends at (space-separated): 27 46
+Ladder starts at and ends at (space-separated): 10 32
+Ladder starts at and ends at (space-separated): 51 68
+Ladder starts at and ends at (space-separated): 61 79
+Ladder starts at and ends at (space-separated): 65 84
+Ladder starts at and ends at (space-separated): 71 91
+Ladder starts at and ends at (space-separated): 81 100
+No of players are: 2
+Gaurav
+Sagar
